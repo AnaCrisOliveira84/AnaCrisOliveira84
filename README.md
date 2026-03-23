@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi Ana Cristina
+# Implantação e Capacitação em Plataforma Educacional (Moodle)
 
-<!--
-**AnaCrisOliveira84/AnaCrisOliveira84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Objetivo
+Capacitar docentes, tutores e alunos para utilização eficiente da plataforma de aprendizagem, promovendo autonomia e melhor experiência educacional.
 
-Here are some ideas to get you started:
+## 📌 Público
+- Professores
+- Tutores
+- Alunos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ações realizadas
+- Planejamento e condução de treinamentos sobre uso da plataforma
+- Desenvolvimento de materiais de apoio (manuais e orientações)
+- Suporte contínuo às equipes acadêmicas
+
+## 📊 Impacto
+- Maior autonomia dos usuários
+- Redução de dificuldades operacionais
+- Melhoria na experiência de uso da plataforma
+
